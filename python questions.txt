@@ -1,0 +1,32 @@
+
+
+
+ 1.Explore the Dataset
+
+ 2. Convert GDP to International Number System
+
+ 3. Descriptive Statistics by Region
+
+ 4. Top 10 Countries with Highest GDP per Year
+
+ 5. YoY GDP Growth
+
+ 6. Detect Recession Years
+
+ 7. Correlation + Heatmap
+
+ 8. GDP Trend Line for Selected Countries
+
+ 9. GDP Trend by Income Group
+
+ 10. Scatter Plot: GDP vs CPI
+
+ 11. Most Volatile GDP Countries
+
+ 12. Multiple Regression (Predict GDP)
+
+ 13. Filter Data by Income Group Function
+
+ 14. GDP growth rate  Per Region Bar Chart (Latest Year)
+
+ 15. GDP Forecasting Using ARIMA

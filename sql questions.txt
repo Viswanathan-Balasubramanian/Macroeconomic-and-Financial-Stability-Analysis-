@@ -1,0 +1,52 @@
+
+  SQL Query Questions 
+
+1. Find the GDP of India in the year 2020.
+
+2. List the top 10 countries with the highest GDP in 2023.
+
+3. Show all countries where unemployment rate was above 15% in 2010.
+
+4. Find the countries that had negative GDP growth in 2009.
+
+5. Get all years where India’s CPI was greater than 10.
+
+6. Show countries with exchange rate more than 100 (local currency per USD).
+
+7. Count how many countries exist in each region.
+
+8. Find the average GDP of each income group for 2022.
+
+9. Get the inflation trend (CPI) for United Arab Emirates across years.
+
+10. Show all Sub-Saharan African countries with unemployment rate greater than 20.
+
+11. Compare GDP of USA and China from 2000–2024.
+
+12. Which country has the highest inflation (CPI) ever recorded?
+
+13. Calculate GDP growth between 2000 and 2024 for each country.
+
+14. Find the countries where interest rate decreased continuously for 3 years.
+
+15. For each region, find the year with maximum GDP growth.
+
+16. Rank countries by GDP for each year (top 3 per year).
+
+17. Identify countries where unemployment rate & CPI move in the same direction (correlated movement).
+
+18. Find countries whose GDP dropped more than 20% in a single year.
+
+19. Compute 5-year moving average of GDP for each country.
+
+20. Find the region with the highest average CPI over all years.
+
+21. Show countries where interest rate crosses CPI (int_rate > cpi).
+
+22. Find the 10 countries with the most volatile GDP (highest standard deviation).
+
+23. For each income group, find the country with the highest GDP in 2024.
+
+24. Create a dataset that shows GDP vs CPI correlation for each country.
+
+25. Identify countries with positive GDP growth for 10 consecutive years.
